@@ -1,0 +1,14 @@
+#Fat Jar Configuration File
+#Wed Mar 26 17:39:31 CST 2014
+onejar.license.required=false
+manifest.classpath=
+manifest.removesigners=true
+onejar.checkbox=true
+jarname=Router_200.jar
+manifest.mergeall=true
+manifest.mainclass=HttpServer.ElementalHttpServer
+manifest.file=<createnew>
+jarname.isextern=false
+onejar.expand=
+excludes=
+includes=
